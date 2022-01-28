@@ -60,8 +60,14 @@ The school board has notified that the reading and math grades for Thomas High S
                                      % Passing Reading: 84.39%       % Passing Reading: 84.32% (Decrease)
                                      % Overall Passing: 62.86%       % Overall Passing: 62.78% (Decrease)
   * Scores by school size
+
+
       Replacing the ninth graders scores had no effect on the scores based on schools grouped into sizes.
+      
+      
   * Scores by school type
+
+
       There was no effect on the scores based on schools grouped into district or charter types.
       
 
