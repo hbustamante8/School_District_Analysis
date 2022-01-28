@@ -21,7 +21,7 @@ The school board has notified that the reading and math grades for Thomas High S
 * How is the school summary affected?
 
 
-  The school summary was only affected the for metrics for Thomas High Schools. All the other school’s metrics were not affected in the school summary data frame. Below is a list of how the numbers/percentages changed after taking out the ninth graders scores.
+  The school summary was only affected the for metrics for Thomas High Schools. All the other school’s metrics were not affected in the school summary data frame. Below is a list of how the numbers/percentages changed after taking out the ninth graders scores for Thomas High School.
   
   
                                     Before Change                     After Change  
