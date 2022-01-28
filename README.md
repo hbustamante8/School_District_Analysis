@@ -15,7 +15,7 @@ The school board has notified that the reading and math grades for Thomas High S
 * How is the district summary affected? 
    
    
-   The district summary after dropping 9th grader standardized test scores for Thomas High School slightly affected the metrics of the distract summary. After making this adjustment, the average math score decreased very slightly from 79% to 78.9%. The average reading scored just about the same at 81.9%. For the total student’s percentage passing math decreased from 75% to 74.8% and the percentage passing reading decreased from 86% to 85.7%. Finally, the overall passing percentage went from 65% to 64.9%. The affects to the district summary were not very significant but in general brought down the scores averaging and passing rates for both subject.
+   The district summary after dropping 9th grader standardized test scores for Thomas High School slightly affected the metrics of the distract summary. After making this adjustment, the average math score decreased very slightly from 79% to 78.9%. The average reading scored just about the same at 81.9%. The total student  percentage passing math decreased from 75% to 74.8% and the percentage passing reading decreased from 86% to 85.7%. Finally, the overall passing percentage went from 65% to 64.9%. The affects to the district summary were not very significant but in general brought down the scores averaging and passing rates for both subject.
    
    ### School summary
 * How is the school summary affected?
