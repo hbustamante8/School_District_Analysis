@@ -23,14 +23,29 @@ The school board has notified that the reading and math grades for Thomas High S
                                      % Passing Math: 93.3%           % Passing Math: 93.2%
                                      % Passing Reading: 97.3%        % Passing Reading: 97.0%
                                      % Overall Passing: 90.9%        % Overall Passing: 90.6%
+                                     
 * How does replacing the ninth-grade scores affect the following?
-  * Math and reading scores by grade
-   Replacing the ninth-grade scores did not affect the math and reading scores by grade.
-  * Scores by school spending
-   The by school spendng changed for the ($630 -644) spending per student category range.
-  * Scores by school size
-  * Scores by school type
 
+
+  * Math and reading scores by grade
+ 
+         * Replacing the ninth-grade scores did not affect the math and reading scores by grade.
+
+
+  * Scores by school spending
+         * Only the ($630 -644) spending per student category range was affected when analyzing scores for spending ranges on students. The change was not significant or conistent. Below is the differnces in percentages for before and after for the ($630 -644) spending range per student.
+
+                                   Before Change                     After Change  
+                                     Avg. Math Score: 78.52%         Avg. Math Score: 78.50 (Decrease)
+                                     Avg. Reading Score: 81.62       Avg. Reading Score: 81.64 (Increase)
+                                     % Passing Math: 73.48%          % Passing Math: 73.46 (Decrease)
+                                     % Passing Reading: 84.39%       % Passing Reading: 84.32% (Decrease)
+                                     % Overall Passing: 62.86%       % Overall Passing: 62.78% (Decrease)
+  * Scores by school size
+          * Replacing the ninth grade scores had no affect on the scores based on schools grouped into sizes.
+  * Scores by school type
+      There was no affect on the scores based on schools grouped into district or charter types.
+      
 
 
 ### Summary
