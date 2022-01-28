@@ -48,7 +48,7 @@ The school board has notified that the reading and math grades for Thomas High S
 
 
 
-  * Math and reading scores by grade
+  * Math and reading scores by grade:
       
       
       
@@ -56,7 +56,7 @@ The school board has notified that the reading and math grades for Thomas High S
 
 
 
-  * Scores by school spending
+  * Scores by school spending:
   
   
      Only the ($630 -644) spending per student category range was affected when analyzing scores for spending ranges on students. The change was not significant or consistent. Below are the differences in percentages for before and after for the ($630 - $644) spending range per student.
@@ -69,14 +69,14 @@ The school board has notified that the reading and math grades for Thomas High S
                                      % Overall Passing: 62.86%       % Overall Passing: 62.78% (Decrease)
                                      
                                      
-  * Scores by school size
+  * Scores by school size:
 
 
        Replacing the ninth graders scores had no effect on the scores based on schools grouped into sizes.
       
       
       
-  * Scores by school type
+  * Scores by school type:
 
 
       There was no effect on the scores based on schools grouped into district or charter types.
