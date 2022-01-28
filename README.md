@@ -19,6 +19,8 @@ The school board has notified that the reading and math grades for Thomas High S
    
    ### School summary
 * How is the school summary affected?
+
+
   The school summary was only affected the for metrics for Thomas High Schools. All the other school’s metrics were not affected in the school summary data frame.
   
   
