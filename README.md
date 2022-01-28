@@ -47,7 +47,10 @@ The school board has notified that the reading and math grades for Thomas High S
 * How does replacing the ninth-grade scores affect the following?
 
 
+
   * Math and reading scores by grade
+      
+      
       Replacing the ninth-grade scores did not affect the math and reading scores by grade. All that is seen is that for Thomas High School 9th grade, "nan" is seen as all test scores were taken out.
 
 
