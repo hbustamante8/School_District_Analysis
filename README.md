@@ -11,12 +11,23 @@ The school board has notified that the reading and math grades for Thomas High S
 
 ## Results 
 * How is the district summary affected? 
-
+   The district summary after dropping 9th grader standardized test scores for Thomas High School slightly affected the metrics of the distract summary. After making this adjustment, he average math score decreases very slightly from 79% to 78.9%. The average reading scored just about the same at 81.9%. For the total students percentage passing math decreased from 75% to 74.8% and the percentage passing reading decreased from 86% to 85.7%. Finally, the over passing percntage wen from 65% ti 64.9%. The affects to the district summary were not very signifcant but in general brought down the scores averaging and passing rates for both subject.
 * How is the school summary affected?
+  The school summary was only affected the for metrics for Thomas High Schools. All the other schools metrics were not affected in the school summary dataframe.
+  
 * How does replacing the ninthgraders' math and reading scores affect Thomas High School's performance relative to other schools
-* How does replacing the ninth-grade scores affect the following
+  Replacing the ninthgraders' standarized test scores affected Thomas High School's performance especially in their percentage passing reading and math as well as the overall passing percentage. Below is a list of how the numbers changed after taking out the ninthgraders scores. Relative to other schools, Thomas High School stayed the same as as they still place second for top 5 schools based on overall passing percentage.
+                                     Before Change                     After Change  
+                                     Avg. Math Score: 83.4%          Avg. Math Score: 83.4%
+                                     Avg. Reading Score: 83.8%       Avg. Reading Score: 83.9%
+                                     % Passing Math: 93.3%           % Passing Math: 93.2%
+                                     % Passing Reading: 97.3%        % Passing Reading: 97.0%
+                                     % Overall Passing: 90.9%        % Overall Passing: 90.6%
+* How does replacing the ninth-grade scores affect the following?
   * Math and reading scores by grade
+   Replacing the ninth-grade scores did not affect the math and reading scores by grade.
   * Scores by school spending
+   The by school spendng changed for the ($630 -644) spending per student category range.
   * Scores by school size
   * Scores by school type
 
