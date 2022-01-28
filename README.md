@@ -21,20 +21,22 @@ The school board has notified that the reading and math grades for Thomas High S
 * How is the school summary affected?
 
 
-  The school summary was only affected the for metrics for Thomas High Schools. All the other school’s metrics were not affected in the school summary data frame.
+  The school summary was only affected the for metrics for Thomas High Schools. All the other school’s metrics were not affected in the school summary data frame. Below is a list of how the numbers/percentages changed after taking out the ninth graders scores.
   
   
-* How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools?
-
-
-  Replacing the ninth graders' standardized test scores affected Thomas High School's performance especially in their percentage passing reading and math as well as the overall passing percentage. Below is a list of how the numbers changed after taking out the ninth graders scores. Relative to other schools, Thomas High School stayed the same as they still place second for top 5 schools based on overall passing percentage.
-  
-                                     Before Change                     After Change  
+                                    Before Change                     After Change  
                                      Avg. Math Score: 83.4%          Avg. Math Score: 83.4%
                                      Avg. Reading Score: 83.8%       Avg. Reading Score: 83.9%
                                      % Passing Math: 93.3%           % Passing Math: 93.2%
                                      % Passing Reading: 97.3%        % Passing Reading: 97.0%
                                      % Overall Passing: 90.9%        % Overall Passing: 90.6%
+                                     
+* How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools?
+
+
+  Replacing the ninth graders' standardized test scores affected Thomas High School's performance especially in their percentage passing reading and math as well as the overall passing percentage. Relative to other schools, Thomas High School stayed the same as they still place second for top 5 schools based on overall passing percentage. 
+  
+        
                                      
                                      
      Dataframe showing top 5 schools based on overall passing percentage:
