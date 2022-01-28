@@ -72,7 +72,7 @@ The school board has notified that the reading and math grades for Thomas High S
   * Scores by school size
 
 
-      Replacing the ninth graders scores had no effect on the scores based on schools grouped into sizes.
+       Replacing the ninth graders scores had no effect on the scores based on schools grouped into sizes.
       
       
       
