@@ -30,9 +30,9 @@ The school board has notified that the reading and math grades for Thomas High S
                                      % Overall Passing: 90.9%        % Overall Passing: 90.6%
                                      
                                      
-                     Dataframe showing top 5 schools based on overall passing percentage
+     Dataframe showing top 5 schools based on overall passing percentage
                      
-                                    ![image](https://user-images.githubusercontent.com/96553992/151630124-60c4fd27-c814-4f60-a515-b332d1586330.png)
+     ![image](https://user-images.githubusercontent.com/96553992/151630124-60c4fd27-c814-4f60-a515-b332d1586330.png)
 
   ### Replacing ninth graders effects on categories
 * How does replacing the ninth-grade scores affect the following?
