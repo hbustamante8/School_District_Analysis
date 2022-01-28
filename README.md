@@ -21,9 +21,8 @@ The school board has notified that the reading and math grades for Thomas High S
   
   
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools?
-  
-  
   Replacing the ninth graders' standardized test scores affected Thomas High School's performance especially in their percentage passing reading and math as well as the overall passing percentage. Below is a list of how the numbers changed after taking out the ninth graders scores. Relative to other schools, Thomas High School stayed the same as they still place second for top 5 schools based on overall passing percentage.
+  
                                      Before Change                     After Change  
                                      Avg. Math Score: 83.4%          Avg. Math Score: 83.4%
                                      Avg. Reading Score: 83.8%       Avg. Reading Score: 83.9%
